@@ -9,7 +9,7 @@ main = "src/index.ts"
 command = "npm install && npm run build"
 
 [env.production]
-name = "upload-blog"
+name = "seiyuu"
 
 [[env.production.r2_buckets]]
 binding = "BUCKET"
