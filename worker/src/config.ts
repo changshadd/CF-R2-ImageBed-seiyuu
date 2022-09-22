@@ -1,5 +1,5 @@
 declare type Config = {
-  allowPaths: string[https://135d26c8103721f1e5046cf6260cb46a.r2.cloudflarestorage.com/seiyuu/]
+  allowPaths: string[]
   allowDelete: boolean
 }
 
