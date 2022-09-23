@@ -4,6 +4,6 @@ declare type Config = {
 }
 
 export const config: Config = {
-  allowPaths: ['assets/', 'images/'],
+  allowPaths: [''],
   allowDelete: true,
 }
